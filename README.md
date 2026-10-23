@@ -2,11 +2,11 @@
 
 ### PCB Design Engineer | Altium Designer | PCB Fabrication
 
-Electronics and Communication Engineering student passionate about **PCB design, electronic hardware development, manufacturing processes, and circuit debugging**.
+Electronics and Communication Engineering student passionate about PCB design, electronic hardware development, manufacturing processes and circuit debugging.
 
-I have hands-on experience designing single-layer, double-sided, and multilayer PCB layouts using Altium Designer. I have fabricated single-layer and double-sided PCBs using the toner transfer method and manufactured single-sided PCBs using a semi-automated CNC machine with CopperCAM-generated G-code.
+I have hands-on experience designing layer, double-sided and multilayer PCB layouts using Altium Designer. I have fabricated layer and double-sided PCBs using the toner transfer method. I have also manufactured sided PCBs using a semi-automated CNC machine with CopperCAM-generated G-code.
 
-I have also trained **60+ junior students over 30 days**, conducting daily two-hour sessions on PCB design in Proteus, guiding them from basic circuit concepts through design, practical implementation, and functional testing.
+I have also trained 60+ students over 30 days. I conducted two-hour sessions on PCB design, in Proteus. I guided them from circuit concepts through design, practical implementation and functional testing.
 
 ---
 
@@ -241,6 +241,6 @@ Kongu Polytechnic College | 2021–2024
 
 ## 🎯 Career Objective
 
-Aspiring PCB Design Engineer seeking to contribute to electronic hardware development through schematic design, datasheet verification, PCB layout, design validation, manufacturing documentation, and practical circuit debugging.
+Aspiring PCB Design Engineer looking to help with hardware development by working on schematic design, checking datasheets creating PCB layout, testing designs making manufacturing documents and fixing circuit problems.
 
-My goal is to develop reliable, manufacturable PCB designs by combining EDA tool proficiency, hands-on PCB fabrication, CNC-based manufacturing experience, and practical hardware troubleshooting.
+I want to create strong and easy to make PCB designs by using skills with EDA tools building PCBs by hand experience, with CNC manufacturing and solving hardware issues.
